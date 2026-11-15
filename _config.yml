@@ -1,5 +1,5 @@
 title: DongGun's Graphics Lab
 description: Rendering & Graphics Researcher
 markdown: kramdown
-url: "https://kimdonggun.gfx.github.io"
-baseurl: ""  # GitHub Pages 루트 저장소이면 "" 그대로
+baseurl: "/kimdonggun.gfx"
+url: "https://kimdonggun324.github.io"
